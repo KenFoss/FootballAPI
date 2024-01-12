@@ -1,0 +1,38 @@
+{
+    "passing_stats": [
+        "year",
+        "player",
+        "player_id",
+        "team_name",
+        "interceptions",
+        "touchdowns",
+        "ypa",
+        "attempts"
+    ],
+    "rushing_stats": [
+        "year",
+        "player",
+        "player_id",
+        "team_name",
+        "attempts",
+        "targets",
+        "receptions",
+        "touchdowns",
+        "ypa"
+    ],
+    "receiving_stats": [
+        "year",
+        "player",
+        "player_id",
+        "team_name",
+        "caught_percent",
+        "drop_rate",
+        "receptions",
+        "targets",
+        "touchdowns"
+    ],
+    "fantasy_stats": [
+        "name",
+        "fantasy_pts"
+    ]
+}
